@@ -1,0 +1,77 @@
+body{
+    background-color: lavender;
+}
+img{
+    height: inherit;
+    width: 100;
+}
+h1 {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 0, 191);
+    font-variant: small-caps;
+}
+h2 {
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif;
+    color:indigo;
+    font-variant: small-caps;
+}
+ol {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(38, 0, 255);
+    font-weight: 800;
+    line-height: 8;
+    font-variant: small-caps;
+}
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(130, 0, 61);
+    font-weight: 800;
+    line-height: 3;
+    font-variant: small-caps;
+}
+hr{
+    border-style: none;
+    border-color: rgb(0, 0, 0);
+    border-top-style: dotted;
+    border-width: 12;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    font-family:'Times New Roman', Times, serif;
+    color:maroon;
+    text-decoration: none;
+}
+form {
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color:navy;
+    color:red;
+}
+#exp {
+    text-align: right;
+    color: rgb(255, 255, 255);
+    background-color: #3366CC;
+    font-weight: bold;
+    }
+#tfull{
+    text-decoration: underline;
+}
+.psevdo::first-line{
+color: gold;
+font-size: 15px;
+font-style: oblique ;
+}
